@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoinMaker</string>
+    <string name="title_activity_login_function_main_super_test">
+        LoginFunctionMainSuperTestActivity
+    </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login_super_function">LoginSuperFunctionActivity</string>
+    <string name="qual_o_valor_em_real">Qual é o valor em real ?</string>
+    <string name="valor_em_dolar">valor em dolar</string>
+    <string name="valor_em_euro">valor em euro</string>
+    <string name="calcular">Calcular</string>
+    <string name="informe_valor">Informe um Valor</string>
+</resources>
